@@ -11,7 +11,7 @@ get_header();
 ?>
  
 <div class="internal-banner" style="background: url('https://soilglobe.com/working/wp-content/uploads/2022/04/soilGlobe-website-blog.webp') no-repeat bottom; background-size: cover;">
-    <h1>Blogs............</h1>
+    <h1>Blogs........./////////...</h1>
 	<div class="brd">
 	<?php echo do_shortcode( '[flexy_breadcrumb]'); ?>
 	</div>
